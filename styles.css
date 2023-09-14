@@ -1,0 +1,34 @@
+body {
+    background-color: lightgreen;
+    font-family: sans-serif;
+  }
+  
+  header {
+    border: 8px solid black;
+    background-color: white;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 300%;
+    color: green;
+  }
+  
+  figure {
+    font-size: 20px;
+    width: 20%;
+    height: auto;
+    background-color: white;
+    border: 4px solid orange;
+    padding: 4px;
+  }
+  
+  figure img {
+    width: 80%;
+    height: auto;
+  }
+  
+  p {
+    background-color: black;
+    color: white;
+  }
