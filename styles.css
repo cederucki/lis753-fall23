@@ -1,5 +1,5 @@
 body {
-    background-color: lightgreen;
+    background-color: #3d7c40;
     font-family: sans-serif;
   }
   
@@ -11,7 +11,7 @@ body {
   h1 {
     text-align: center;
     font-size: 300%;
-    color: green;
+    color: #3d7c40;
   }
   
   figure {
@@ -19,29 +19,11 @@ body {
     width: 20%;
     height: auto;
     background-color: white;
-    border: 4px solid orange;
+    border: 4px solid #e66031;
     padding: 4px;
   }
   
   figure img {
     width: 80%;
     height: auto;
-  }
-  
-  p {
-    background-color: black;
-    color: white;
-  }
-
-  nav {
-    background-color: lightblue;
-  }
-
-  nav ul {
-    list-style: none;
-  }
-
-  nav ul li {
-    text-decoration: none;
-    color: blue;
   }
