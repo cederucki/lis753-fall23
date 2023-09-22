@@ -38,8 +38,10 @@ figure img {
 
 nav li {
   list-style: none;
+  border: 1px solid black;
+  margin: 2px 0;
 }
 
-nav li ul {
+nav a {
   text-decoration: none;
 }
