@@ -35,3 +35,11 @@ figure img {
   width: 80%;
   height: auto;
 }
+
+nav li {
+  list-style: none;
+}
+
+nav li ul {
+  text-decoration: none;
+}
