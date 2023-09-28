@@ -56,3 +56,9 @@ nav a {
 text-decoration: none;
 text-transform: uppercase;
 }
+
+#main-content {
+  background-color: #e66031;
+  color: white;
+  text-decoration: none;
+}
