@@ -36,6 +36,12 @@ width: 80%;
 height: auto;
 }
 
+a {
+  background-color: #e66031;
+  color: white;
+  text-decoration: none;
+}
+
 nav ul {
 width: 30%;
 }
@@ -57,8 +63,3 @@ text-decoration: none;
 text-transform: uppercase;
 }
 
-#main-content {
-  background-color: #e66031;
-  color: white;
-  text-decoration: none;
-}
