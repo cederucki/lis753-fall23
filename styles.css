@@ -6,6 +6,7 @@ body {
 header {
 border: 8px solid black;
 background-color: white;
+margin-top: 16px;
 }
 
 h1 {
