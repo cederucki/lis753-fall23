@@ -38,7 +38,7 @@ p {
 
 figure {
   font-size: 20px;
-  width: 50%;
+  width: 20%;
   height: auto;
   background-color: white;
   border: 4px double #e66031;
@@ -51,7 +51,7 @@ figure img {
 }
 
 figure.section-image {
-  max-width: 50%;
+  width: 50%;
   height: auto;
   border: 4px double black;
   float: right;
