@@ -54,7 +54,7 @@ figure img {
 figure.section-image {
   width: 50%;
   height: auto;
-  border: 4px double black;
+  border: none;
   float: right;
   font-size: 12px;
   margin-top: -16px;
