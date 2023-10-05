@@ -19,6 +19,10 @@ h1#article-title {
   color: white;
 }
 
+h2 {
+  color: white;
+}
+
 p {
   color: white;
 }
@@ -43,6 +47,7 @@ figure.section-image {
   border: 4px double black;
   float: right;
   margin: 8px 8px 20px 20px;
+  font-size: 12px;
 }
 
 
