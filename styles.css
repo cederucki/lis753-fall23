@@ -23,7 +23,7 @@ h2 {
   color: white;
   background-color: #e66031;
   border: 4px solid white;
-  width: auto;
+  width: 25%;
 }
 
 p {
@@ -69,6 +69,7 @@ nav li {
 nav a:hover {
   background-color:#e66031;
   border: 1px solid #3d7c40;
+  color: white;
 }
 
 nav a {
