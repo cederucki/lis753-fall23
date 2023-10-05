@@ -52,18 +52,12 @@ figure.section-image {
   font-size: 12px;
 }
 
-
-
 a {
   background-color: white;
   color: #3d7c40;
   text-decoration: none;
   margin: 8px;
   padding: 4px;
-}
-
-nav ul {
-  width: 30%;
 }
 
 nav li {
