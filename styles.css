@@ -13,10 +13,15 @@ h1#site-title {
   text-align: center;
   font-size: 300%;
   color: #3d7c40;
+  text-transform: uppercase;
 }
 
 h1#article-title {
   color: white;
+  background-color: #e66031;
+  border: 4px solid white;
+  width: 25%;
+  padding: 4px;
 }
 
 h2 {
@@ -24,6 +29,7 @@ h2 {
   background-color: #e66031;
   border: 4px solid white;
   width: 25%;
+  padding: 4px;
 }
 
 p {
@@ -50,6 +56,7 @@ figure.section-image {
   border: 4px double black;
   float: right;
   font-size: 12px;
+  margin-top: -16px;
 }
 
 a {
