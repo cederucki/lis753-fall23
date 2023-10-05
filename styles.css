@@ -9,13 +9,13 @@ background-color: white;
 margin-top: 16px;
 }
 
-h1 {
+h1#site-title {
 text-align: center;
 font-size: 300%;
 color: #3d7c40;
 }
 
-h2 {
+h1#article-title {
 color: white;
 }
 
