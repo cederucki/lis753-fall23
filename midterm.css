@@ -12,10 +12,6 @@ html {
     background-color: #fffafb;
 }
 
-img {
-    border: 4px solid #278180;
-}
-
 header {
     background-color: #278180;
 }
@@ -26,9 +22,17 @@ header {
     color: #fffafb;
 }
 
+figure {
+    float: right;
+}
+
 figcaption {
     text-align: right;
     font-size: 12px;
+}
+
+img {
+    border: 4px solid #278180;
 }
 
 nav {
@@ -42,4 +46,7 @@ nav li {
     list-style: none;
     text-decoration: none;
     flex: 0 0 33%;
+    text-align: center;
+    padding: 4px;
+    font-size: 16px;
 }
