@@ -98,4 +98,8 @@ nav a {
     margin: 8px;
   }
 
+  nav li {
+    flex: 1 0 100%;
+  }
+
 }
