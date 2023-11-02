@@ -96,16 +96,13 @@ nav a {
     display: block;
   }
 
-  nav li {
-    margin: 4px;
-  }
-
   nav a {
     width: 100%;
     text-align: center;
+    margin: 8px;
   }
 
   figure {
-    width: 100%;
+    width: 90%;
   }
 }
