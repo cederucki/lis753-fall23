@@ -95,4 +95,8 @@ nav a {
   nav ul {
     display: block;
   }
+
+  nav li {
+    margin: 4px;
+  }
 }
