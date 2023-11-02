@@ -97,6 +97,10 @@ nav a {
     display: block;
   }
 
+  nav a {
+    margin: 50px;
+  }
+
   figure {
     width: 70%;
   }
