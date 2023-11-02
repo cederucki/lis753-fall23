@@ -94,11 +94,11 @@ nav a {
 @media screen and (max-width: 1000px) {
   nav a {
     background-color: yellow;
-    display: block;
+    flex: 1 0 100%;
   }
 
   figure {
-    border: 16px solid red;
+    width: 70%;
   }
 
   figure.section-image {
