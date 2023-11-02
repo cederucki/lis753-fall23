@@ -102,8 +102,8 @@ nav a {
     flex: 1 0 100%;
   }
 
-  figure {
-    background-color: red;
+  img{
+    border: 16px solid red;
   }
 }
 
