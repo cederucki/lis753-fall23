@@ -83,14 +83,12 @@ nav li {
 
 nav a:hover {
   background-color:#e66031;
-  border: 1px solid #3d7c40;
-  color: white;
 }
 
 nav a {
-  color: #3d7c40;
+  background-color: #3d7c40;
+  color: white;
   text-decoration: none;
   text-transform: uppercase;
-  border: 1px solid black;
-  margin: 4px;
+  padding: 4px;
 }
