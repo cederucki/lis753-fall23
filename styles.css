@@ -89,5 +89,10 @@ nav a {
   text-decoration: none;
   text-transform: uppercase;
   padding: 8px;
-  justify-content: space-between;
+}
+
+@media screen and (max-width: 1000px) {
+  body {
+    background-color: red;
+  }
 }
