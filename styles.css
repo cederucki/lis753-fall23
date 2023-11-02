@@ -92,17 +92,10 @@ nav a {
 }
 
 @media screen and (max-width: 1000px) {
-  nav ul {
-    display: block;
-  }
-
   nav a {
     width: 100%;
     text-align: center;
     margin: 8px;
   }
 
-  figure.main-image img {
-    width: 75%;
-  }
 }
