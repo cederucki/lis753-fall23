@@ -96,6 +96,7 @@ nav a {
   nav li {
     background-color: yellow;
     flex: 1 0 100%;
+    flex-flow: wrap;
   }
 
   figure {
