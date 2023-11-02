@@ -92,10 +92,13 @@ nav a {
 }
 
 @media screen and (max-width: 1000px) {
+  nav ul {
+    display: block;
+  }
+  
   nav a {
     background-color: yellow;
-    flex: 1 0 100%;
-    flex-wrap: wrap;
+    flex: none;
   }
 
   figure {
