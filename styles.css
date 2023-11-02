@@ -93,23 +93,15 @@ nav a {
 
 @media screen and (max-width: 1000px) {
   nav a {
-    width: 100%;
-    text-align: center;
-    margin: 8px;
-  }
-
-  nav li {
-    flex: 1 0 100%;
+    background-color: yellow;
   }
 
   figure {
     border: 16px solid red;
-    width: 70%;
   }
 
   figure.section-image {
     width: 90%;
-    border: 16px solid blue;
   }
 }
 
