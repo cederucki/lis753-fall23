@@ -99,4 +99,13 @@ nav a {
   nav li {
     margin: 4px;
   }
+
+  nav a {
+    width: 100%;
+    text-align: center;
+  }
+
+  figure {
+    width: 100%;
+  }
 }
