@@ -102,7 +102,7 @@ nav a {
     margin: 8px;
   }
 
-  figure.main-image {
+  figure.main-image img {
     width: 75%;
   }
 }
