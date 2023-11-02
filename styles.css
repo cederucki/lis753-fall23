@@ -76,8 +76,6 @@ nav ul {
 
 nav li {
   list-style: none;
-  margin: 2px 0;
-  padding: 4px;
   flex: 1 1 100%;
 }
 
@@ -91,4 +89,5 @@ nav a {
   text-decoration: none;
   text-transform: uppercase;
   padding: 8px;
+  justify-content: space-between;
 }
