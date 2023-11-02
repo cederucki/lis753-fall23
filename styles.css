@@ -104,7 +104,12 @@ nav a {
 
   figure {
     border: 16px solid red;
+    width: 70%;
+  }
+
+  figure.section-image {
     width: 90%;
+    border: 16px solid blue;
   }
 }
 
