@@ -98,7 +98,7 @@ nav a {
   }
 
   nav a {
-    /*Something needs to get the links to not stack on top of eachother so tightly, need space between them vertically but margin isn't working right for some reason*/
+    background-color: red;
   }
 
   figure {
@@ -107,5 +107,9 @@ nav a {
 
   figure.section-image {
     width: 90%;
+  }
+
+  h2 {
+    width: 50%;
   }
 }
